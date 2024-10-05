@@ -209,35 +209,35 @@
 - [ ] Strings Made Up Of Strings
 
 ### JavaScript
-- [x] Flatten
-- [ ] Testing Framework
-- [ ] Array Methods
-- [ ] Event Target
-- [ ] Debounce
-- [ ] This Binding
-- [ ] Promisify
-- [ ] Throttle
-- [ ] Curry
-- [ ] Promise Methods
-- [ ] Deep Equals
-- [ ] Promises
-- [ ] Corresponding Node
-- [ ] Memoize
-- [ ] Create DOM
-- [ ] Trending Stocks
+- [x] 1. Flatten
+- [x] 2. Testing Framework
+- [ ] 3. Array Methods
+- [ ] 4. Event Target
+- [ ] 5. Debounce
+- [ ] 6. This Binding
+- [ ] 7. Promisify
+- [ ] 8. Throttle
+- [ ] 9. Curry
+- [ ] 10. Promise Methods
+- [ ] 11. Deep Equals
+- [ ] 12. Promises
+- [ ] 13. Corresponding Node
+- [ ] 14. Memoize
+- [ ] 15. Create DOM
+- [ ] 16. Trending Stocks
 
-- [ ] Wordle
-- [ ] Tip Calculator
-- [ ] Question List
-- [ ] Quiz
-- [ ] Memory
-- [ ] Crypto Prices
-- [ ] Phone Input
-- [ ] Connect Four
-- [ ] useFetch
+- [ ] 17. Wordle
+- [ ] 18. Tip Calculator
+- [ ] 19. Question List
+- [ ] 20. Quiz
+- [ ] 21. Memory
+- [ ] 22. Crypto Prices
+- [ ] 23. Phone Input
+- [ ] 24. Connect Four
+- [ ] 25. useFetch
 
-- [ ] useLocalStorage
-- [ ] useStateWithHistory
-- [ ] useInterval
-- [ ] useWindowSize
-- [ ] useMap
+- [ ] 26. useLocalStorage
+- [ ] 27. useStateWithHistory
+- [ ] 28. useInterval
+- [ ] 29. useWindowSize
+- [ ] 30. useMap

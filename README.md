@@ -211,7 +211,7 @@
 ### JavaScript
 - [x] 1. Flatten
 - [x] 2. Testing Framework
-- [ ] 3. Array Methods
+- [x] 3. Array Methods
 - [ ] 4. Event Target
 - [ ] 5. Debounce
 - [ ] 6. This Binding
